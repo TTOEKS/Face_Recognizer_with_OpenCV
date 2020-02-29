@@ -1,9 +1,10 @@
 # Face_Recognizer_with_OpenCV
 -------------------------------------
 My first project
+
 ***I wanted make a face recognizer using openCv in python.***
 
-Here is function i made
+Here is function i made  
 ### 1. Face Collector.py
 if you execute Face_Collector, this program will collecting 10 face image data
 
