@@ -11,7 +11,7 @@ from time import sleep
 
 
 print('\n\n### Image Sending Module\nStart sending Images')
-engine = create_engine('mysql+mysqldb://jinho:1234@localhost/project', echo=False)
+engine = create_engine('mysql+mysqldb://host:qwer@localhost/project', echo=False)
 buffer = BytesIO()
 cnt = 0
 user_id = sys.argv[2]
